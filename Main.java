@@ -291,6 +291,13 @@ class Main
          *  
          *  Count how many words have more than 5 letters.
          */
+       System.out.println("***TASK 12***");
+       
+       String[] ar5= new String[] {"four","score","and","seven","years","ago","our","fathers","brought","forth","on","this","continent","a","new","nation"};
+       
+       int[] ar6= new int[ar5.length];
+       
+       
         
         /*
          * Task 13
